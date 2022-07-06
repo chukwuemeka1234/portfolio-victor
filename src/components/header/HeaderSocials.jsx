@@ -2,13 +2,15 @@ import React from 'react';
 import {BsLinkedin} from 'react-icons/bs';
 import {BsGithub} from 'react-icons/bs';
 import {BsTwitter} from 'react-icons/bs';
+import {FaAngellist} from 'react-icons/fa';
 
 const HeaderSocials = () => {
   return (
-    <div>
-      <a href="https://linkedin.com" target="_blank"><BsLinkedin /></a>
-      <a href="https://github.com" target="_blank"><BsGithub /></a>
-      <a href="https://twitter.com" target="_blank"><BsTwitter /></a>
+    <div className='header__socials'>
+      <a href="https://www.linkedin.com/in/vic-chukwuemeka/" target="_blank"><BsLinkedin /></a>
+      <a href="https://github.com/chukwuemeka1234" target="_blank"><BsGithub /></a>
+      <a href="https://twitter.com/avc_victor" target="_blank"><BsTwitter /></a>
+      <a href="https://angel.co/u/victor-chukwuemeka-1" target="_blank"><FaAngellist /></a>
     </div>
   )
 }
