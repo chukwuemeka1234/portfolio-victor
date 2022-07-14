@@ -1,8 +1,7 @@
+/* eslint-disable */
 import React from 'react';
-import {BsLinkedin} from 'react-icons/bs';
-import {BsGithub} from 'react-icons/bs';
-import {BsTwitter} from 'react-icons/bs';
-import {FaAngellist} from 'react-icons/fa';
+import { BsLinkedin,  BsGithub, BsTwitter } from 'react-icons/bs';
+import { FaAngellist } from 'react-icons/fa';
 
 const HeaderSocials = () => {
   return (
