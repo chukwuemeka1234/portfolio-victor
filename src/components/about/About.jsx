@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 import './about.css';
 import ME from '../../assets/vic-original-plus.jpg';
