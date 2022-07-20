@@ -1,6 +1,34 @@
-# Getting Started with Create React App
+[![Netlify badge](https://api.netlify.com/api/v1/badges/470e52d0-4d03-4935-b493-76c00166a3da/deploy-status)](https://rickymormor.engineer/)
+# MY PERSONAL PORTFOLIO
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Built With
+
+- JavaScript
+- React
+- Emailjs
+
+
+#### Click on the badge below to see the deployed version of the site.
+[![Netlify badge](https://api.netlify.com/api/v1/badges/470e52d0-4d03-4935-b493-76c00166a3da/deploy-status)](https://rickymormor.engineer/)
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+- some knowledge on `npm` , webpack, JavaScript(ES6) and React
+- [Node.js](https://nodejs.org/en/)
+- Web browser
+- Code Editor
+### Setup
+
+- Clone repository using this command in terminal ` git clone https://github.com/chukwuemeka1234/portfolio-victor.git`
+- Change directory to the cloned repository `cd portfolio-victor`
+- Install dependencies using `npm install`
+- run `npm start`
+
 
 ## Available Scripts
 
@@ -17,8 +45,6 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
@@ -26,8 +52,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
@@ -39,32 +63,20 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Author
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+👤 **Victor Chukwuemeka**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- GitHub: [@chukwuemeka1234](https://github.com/chukwuemeka1234)
+- Twitter: [@avc_victor](https://twitter.com/@avc_victor)
+- LinkedIn: [ani-chukwuemeka](https://www.linkedin.com/in/vic-chukwuemeka/)
 
-### Code Splitting
+## 🤝 Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Contributions, issues, and feature requests are welcome!
 
-### Analyzing the Bundle Size
+## Show your support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Give a ⭐️ if you like this project!
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📝 License
