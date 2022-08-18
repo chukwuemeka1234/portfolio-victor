@@ -1,4 +1,3 @@
-[![Netlify badge](https://api.netlify.com/api/v1/badges/470e52d0-4d03-4935-b493-76c00166a3da/deploy-status)](https://rickymormor.engineer/)
 # MY PERSONAL PORTFOLIO
 
 
@@ -10,7 +9,6 @@
 
 
 #### Click on the badge below to see the deployed version of the site.
-[![Netlify badge](https://api.netlify.com/api/v1/badges/470e52d0-4d03-4935-b493-76c00166a3da/deploy-status)](https://rickymormor.engineer/)
 
 ## Getting Started
 
