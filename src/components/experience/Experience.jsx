@@ -2,6 +2,11 @@
 import React from 'react';
 import './experience.css';
 import {BsPatchCheckFill} from 'react-icons/bs';
+import {ImHtmlFive} from 'react-icons/im';
+import {SiJavascript, SiTailwindcss, SiRedux, SiRuby, SiRubyonrails, SiPostgresql} from 'react-icons/si';
+import {IoLogoCss3} from 'react-icons/io';
+import {FaReact} from 'react-icons/fa';
+
 
 const Experience = () => {
   return (
@@ -14,45 +19,39 @@ const Experience = () => {
           <h3>Frontend Development</h3>
           <div className="experience__content">
             <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon'/>
+              <ImHtmlFive className='experience__details-icon'/>
               <div>
                 <h4>HTML</h4>
-                <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon'/>
+              <IoLogoCss3 className='experience__details-icon'/>
               <div>
                 <h4>CSS</h4>
-                <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon'/>
+              <SiJavascript className='experience__details-icon'/>
               <div>
                 <h4>Javascript</h4>
-                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon'/>
+              <SiTailwindcss className='experience__details-icon'/>
               <div>
                 <h4>Tailwind</h4>
-                <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon'/>
+              <FaReact className='experience__details-icon'/>
               <div>
                 <h4>React</h4>
-                <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon'/>
+              <SiRedux className='experience__details-icon'/>
               <div>
                 <h4>Redux</h4>
-                <small className='text-light'>Experienced</small>
               </div>
             </article>
           </div>
@@ -63,24 +62,21 @@ const Experience = () => {
           <h3>Backend Development</h3>
           <div className="experience__content">
             <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon'/>
+              <SiRuby className='experience__details-icon'/>
               <div>
                 <h4>Ruby</h4>
-                <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon'/>
+              <SiRubyonrails className='experience__details-icon'/>
               <div>
                 <h4>Ruby on Rails</h4>
-                <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon'/>
+              <SiPostgresql className='experience__details-icon'/>
               <div>
                 <h4>PostgreSQL</h4>
-                <small className='text-light'>Experienced</small>
               </div>
             </article>
           </div>

@@ -53,6 +53,7 @@ const Contact = () => {
           <button type='submit' className='btn btn-primary'>Send Message</button>
         </form>
       </div>
+      <a href="#" className='scroll__up'>Scroll Up</a>
     </section>
   )
 }

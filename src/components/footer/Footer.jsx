@@ -1,9 +1,8 @@
 /* eslint-disable */
 import React from 'react';
 import './footer.css';
-import { FaFacebookF } from 'react-icons/fa';
-import { FiInstagram } from 'react-icons/fi';
-import { BsTwitter } from 'react-icons/bs';
+import { BsLinkedin,  BsGithub, BsTwitter } from 'react-icons/bs';
+import { FaAngellist } from 'react-icons/fa';
 
 const Footer = () => {
   return (
@@ -21,9 +20,10 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://facebook.com"><FaFacebookF /></a>
-        <a href="https://instagram.com"><FiInstagram /></a>
-        <a href="https://twitter.com"><BsTwitter /></a>
+      <a href="https://www.linkedin.com/in/vic-chukwuemeka/" target="_blank"><BsLinkedin /></a>
+      <a href="https://github.com/chukwuemeka1234" target="_blank"><BsGithub /></a>
+      <a href="https://twitter.com/avc_victor" target="_blank"><BsTwitter /></a>
+      <a href="https://angel.co/u/victor-chukwuemeka-1" target="_blank"><FaAngellist /></a>
       </div>
 
       <div className="footer__copyright">
