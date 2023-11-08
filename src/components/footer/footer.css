@@ -4,6 +4,9 @@ footer {
   text-align: center;
   font-size: 0.9rem;
   margin-top: 7rem;
+  position: relative;
+  bottom: -150px;
+  width: 100%;
 }
 
 footer a {

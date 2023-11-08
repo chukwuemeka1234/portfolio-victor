@@ -1,10 +1,10 @@
 /* eslint-disable */
 import React from 'react';
 import './testimonials.css';
-import AVTR1 from '../../assets/avatar1.jpg';
-import AVTR2 from '../../assets/avatar2.jpg';
-import AVTR3 from '../../assets/avatar3.jpg';
-import AVTR4 from '../../assets/avatar4.jpg';
+import AVTR1 from '../../assets/affax.jpeg';
+import AVTR2 from '../../assets/aladdin.jpeg';
+import AVTR3 from '../../assets/ornela.jpeg';
+import AVTR4 from '../../assets/ricky.jpeg';
 
 // import Swiper core and required modules
 import { Navigation, Pagination, Autoplay } from 'swiper';
@@ -16,29 +16,29 @@ import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import 'swiper/css/scrollbar';
-
 import 'swiper/css/autoplay';
 
 const data = [
   {
     image: AVTR1,
-    name: 'Grace Nonyelum',
-    review: 'Always available to answer any questions. Very knowledgeable about the services he provide. Would recommend to anyone!'
+    name: 'Affaxed Kiprotich',
+    review: 'Victor Chukwuemeka is a talented person and really professional. We have worked together in several projects while studying at Microverse and I have gotten to know his work ethics. He is prompt in tackling projects and he can communicate well since most of our meetings involved remote pair programming. He is also well equipped technically in software development, majorly in web development and he is suitable for every remote and non remote job out there.'
+    
   },
   {
     image: AVTR2,
-    name: 'Abdollah Gabriel',
-    review: 'Great results. Enjoyable to work with, and most importantly, enabled us to have the presence on the web we needed to conduct business in today market.'
+    name: 'Aladdin Alsalem',
+    review: 'I recommend Victor, He is a very active, and a team player, He has experience with front-end development, especially in Reactjs.'
   },
   {
     image: AVTR3,
-    name: 'Ricky James',
-    review: 'It is always a pleasure to work with Victor and his team. They are personable, responsive, and results-oriented!'
+    name: 'Azonkeu Ornela',
+    review: 'Victor is a great team player and a talented software developer. I worked with him on several projects and I was impressed with his technical knowledge and his communication skills. Always punctual for meetings and always ready to help. I recommend Victor to any company looking for extremely talented software developers.'
   },
   {
     image: AVTR4,
-    name: 'Hadija Azzezat',
-    review: 'Victor is attentive, personable, and professional. Victor and his team provide great support for my company`s needs.'
+    name: 'Ricky Mormor',
+    review: 'Victor is a fantastic software engineer, and his detail-oriented approach made him a pleasure to work with. We pair-programmed extensively together while enrolled on a software development program, and in that time his work ethic blew me away.'
   },
 ]
 

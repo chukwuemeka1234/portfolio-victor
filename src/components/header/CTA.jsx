@@ -1,6 +1,6 @@
 /* eslint-disable */
 import React from 'react'
-import CV from '../../assets/Resume.pdf';
+import CV from '../../assets/Resume-Recent.pdf';
 
 const CTA = () => {
   return (
